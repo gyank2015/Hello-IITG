@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\menu\\mapmenu.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\src\\main\\res\\menu\\mapmenu.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/menu/mapmenu.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/src/main/res/menu/mapmenu.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

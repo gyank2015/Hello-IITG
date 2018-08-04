@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mr.Robot/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_2cfb7e955c684a85cc84ca1943b10adc9af3380b.jar" />
+    </item>
+    <item
+        jar="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_280aa4183b282150c504c8e4804075f82d1edb39.jar" />
+    </item>
+    <item
+        jar="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_8338674854f8b0265b4a086d818ceae7d2fd7e8f.jar" />
+    </item>
+    <item
+        jar="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_4758c013c73810835dfb4f1de7e7fe2cddb8f75e.jar" />
+    </item>
+    <item
+        jar="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-21.0.3_869dedff5ceb80e76547f313a5fba5365f35ccd7.jar" />
+    </item>
+    <item
+        jar="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="26.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/mr.Robot/Downloads/HelloIITG1 4 2/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.3_3a3f3058f70718cdf41cabd3c3b0f2197e2fe178.jar" />
+    </item>
+
+</items>

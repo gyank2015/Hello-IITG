@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "/Users/mr.Robot/Downloads/HelloIITG1 4/C:\\Users\\Family\\Documents\\Java\\Android Studio\\HelloIITG1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

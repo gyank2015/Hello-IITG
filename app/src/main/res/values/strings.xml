@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello IITG</string>
+    <string name="action_download">Download Map</string>
+    <string name="hostel_contacts_disclaimer">⚠As per the details provided by the General Secretaries of each hostel</string>
+    <string-array name="places_description">
+        <item>The ATMs are spread out in three different locations inside the campus. There is an SBI and a Canara Bank ATM near the Administrative Building, a Canara Bank ATM inside New SAC and finally an ICICI ATM inside Market Complex. SBI and Canara Bank branches are located near the Administrative Building.</item>
+        <item>Located behind the New SAC, it consists of a few restaurants and is a perfect place to hang out in the evenings. It has Subway, Foodie’s world, Baskin Robbins, South and North Indian Restaurants, a cakery and there are more coming up.</item>
+        <item>You can book a room in the guest house for your parents or relatives from the Academic Building. All the rooms are air conditioned and views from the rooms are amazing. You might not be a guest, but you would definitely want to visit this at least once.</item>
+        <item>As the title suggests, it is right inside your hostel (each hostel has one) and probably the most accessible place to eat. You would find almost every type of snack that you could think of, from packaged food like Lays, Britannia biscuits, etc. to food that is made like chowmein, sandwiches, etc. The timing of the hostel canteen depends on each hostel but it usually opens around 9 AM and closes around 2 AM, sometimes 3 (yes AM).</item>
+        <item>Located somewhere around each hostel canteen, this is the next favorite spot for the hostellers. The timings aren’t as flexible as the hostel canteens nevertheless it is open almost the entire day. You can find packaged drinks from companies like Amul, Pepsi, etc. and also many other fresh fruit juices and milk shakes.</item>
+        <item>Bathing soaps, toothpastes, toothbrushes, sunscreens, shampoos, body lotions, pens, pencils, notebooks… The list goes on forever…</item>
+        <item>A place you would be going to quite often. It consists of a few restaurants, cycle shops, electronic repair shops, barber shops, a pani puri stand and even a few fruit shops. Pretty much everything. It is located just outside the faculty gate, near the Brahmaputra hostel.</item>
+        <item>Majority of the classes for the freshmen take place here. Each hall can fit more than 200 people and there are 4 such halls. It also houses a canteen and a stationary shop.</item>
+        <item>This is the place where you will find all the academic books you want. It is usually open from 8am to 2pm and open 24 hours during the weeks of Midsems and Endsems. It houses a stationary shop with printing facility. In case you didn\'t know, the official name of the library is Laxminath Bezbaroa Central Library.</item>
+        <item>There are a couple of provision and grocery stores inside the Market Complex along with an Amul store and an ICICI Bank ATM. It is located near the main gate.</item>
+        <item>The new Student Activity Center (SAC) houses dance rooms, conference rooms, spaces for individual clubs and also a Canara Bank ATM. It is usually active in the evenings.</item>
+        <item>The old Student Activity Center (SAC) is mainly used for Sports. It is located right next to the sports ground. The old SAC consists of badminton courts, table tennis courts, a squash court and more. There is a Gym and another badminton court located near the sports ground and a swimming pool near the new SAC.</item>
+        <item>Located in the market complex, this restaurant has arguably one of the best ambiences in the campus. They also have another outlet next to the banks (Administrative Building).</item>
+        <item>Located near Subhansiri Hostel, this is the place you would catch a bus from if you want to go to the city.</item>
+        <item>This is a market placed specially for all the newcomers. You would find everything you need, to start living in a hostel, right here. Mattresses, bicycles, buckets, sim cards, curtains&#8230; All the basic stuff.</item>
+        <item>A new canteen that is in Lohit hostel, serves only pure vegetarian food in case you are hungry for some.</item>
+        <item>Catch up the best view of Campus and enjoy the nature en route to Viewpoint. Open daily till 5 PM.</item>
+        <item>This 24 hour canteen/restaurant, located near core 3, has north Indian food during the day and snacks during the night.</item>
+    </string-array>
+    <string name="SIL">Copyright (c) 2014, Austin Andrews (http://materialdesignicons.com/),
+with Reserved Font Name Material Design Icons.
+Copyright (c) 2014, Google (http://www.google.com/design/)
+uses the license at https://github.com/google/material-design-icons/blob/master/LICENSE
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION and CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.</string>
+
+</resources>

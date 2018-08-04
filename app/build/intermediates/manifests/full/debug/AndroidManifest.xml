@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gt.helloiitg"
+    android:versionCode="12"
+    android:versionName="3.3" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.helloiitg.MainActivity"
+            android:label="Campus Map"
+            android:parentActivityName="com.example.helloiitg.Menu"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="com.helloiitg.campusmap" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.Taxi"
+            android:label="Taxi Services"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.taxi" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.TimeTable"
+            android:label="Time Table"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.timetable" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.TTData"
+            android:label="Timetable"
+            android:parentActivityName="com.example.helloiitg.TimeTable" >
+            <intent-filter>
+                <action android:name="com.helloiitg.ttdata" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.TimeTable" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.IPSettings"
+            android:label="IP Details"
+            android:parentActivityName="com.example.helloiitg.LanSet" >
+            <intent-filter>
+                <action android:name="com.helloiitg.ipsettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.LanSet" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.BusTimings"
+            android:label="Bus Timings"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.bustimings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.Menu"
+            android:configChanges="orientation|screenSize|layoutDirection"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.helloiitg.menu" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.Splash"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.InternetSettings"
+            android:label="Internet Settings"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.internetsettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.LanSet"
+            android:label="LAN Settings"
+            android:parentActivityName="com.example.helloiitg.InternetSettings" >
+            <intent-filter>
+                <action android:name="com.helloiitg.lansettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.InternetSettings" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.BrowSet"
+            android:label="Browser Settings"
+            android:parentActivityName="com.example.helloiitg.InternetSettings" >
+            <intent-filter>
+                <action android:name="com.helloiitg.browsettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.InternetSettings" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.SkypeSet"
+            android:label="Skype Settings"
+            android:parentActivityName="com.example.helloiitg.InternetSettings" >
+            <intent-filter>
+                <action android:name="com.helloiitg.skypesettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.InternetSettings" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.DCSet"
+            android:label="DC++ Settings"
+            android:parentActivityName="com.example.helloiitg.InternetSettings" >
+            <intent-filter>
+                <action android:name="com.helloiitg.dcsettings" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.InternetSettings" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.ContactDetails"
+            android:label="Contact Details"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.contactdetails" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.About"
+            android:label="About"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.about" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.Webmail"
+            android:label="Webmail"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.webmail" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="com.example.helloiitg.Places"
+            android:label="Places"
+            android:parentActivityName="com.example.helloiitg.Menu" >
+            <intent-filter>
+                <action android:name="com.helloiitg.places" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.helloiitg.Menu" />
+        </activity>
+        <activity
+            android:name="android.support.v7.widget.TestActivity"
+            android:label="RecyclerViewTestActivity" />
+    </application>
+
+</manifest>
